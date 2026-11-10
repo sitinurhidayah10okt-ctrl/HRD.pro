@@ -1,0 +1,8 @@
+{
+  "name": "HR Pro & Payroll Enterprise",
+  "description": "Sistem HRD Enterprise lengkap: Biodata Karyawan, Presensi Absensi Real-time, Persetujuan Cuti Online, dan Integrasi Penggajian Bulanan dengan Perhitungan Otomatis EPF, SOCSO, EIS serta Ekspor CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
